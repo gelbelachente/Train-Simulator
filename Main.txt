@@ -1,0 +1,35 @@
+# towns with trains
+Tripolis: -220,130; Bamako,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey,Niamey
+Tunis: -260,110;Yamoussoukro
+Algier: -265 ,95;Nouakchat, Nouakchat, Abuja
+Rabat: -250,25; Bangui, Jaunde
+ElAaiun: -190,0; Abuja
+Nouakchat: -150, -10; Rabat, ElAaiun
+Bamako: -110,20 ; Abuja,Conakry, Abuja
+Abuja: -60,110 ; Niamey, ElAaiun
+Niamey: -130,95 ; Bamako, Yamoussoukro
+Jaunde: 0,130 ; Bangui,Bangui, Tripolis
+Bangui: -10,160 ; Niamey, Bamako, Freetown,Rabat
+Conakry: -70,0 ; Jaunde, ElAaiun, Tunis
+Freetown: -60,5 ; Jaunde,Yamoussoukro,Tunis
+Monrovia: -50,10 ; Freetown
+Yamoussoukro: -50,25;Bangui
+# railway lines
+Conakry-Bamako
+Bamako-Niamey
+Niamey-Abuja
+Rabat-Algier
+Algier-Tunis
+Tunis-Tripolis
+Bamako-Nouakchat
+Nouakchat-ElAaiun
+ElAaiun-Rabat
+Conakry-Freetown
+Freetown-Monrovia
+Monrovia-Yamoussoukro
+Yamoussoukro-Abuja
+Conakry-Bamako
+Bamako-Niamey
+Niamey-Abuja
+Abuja-Jaunde
+Abuja-Bangui

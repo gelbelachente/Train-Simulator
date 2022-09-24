@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InfrastructureTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-09-24T09:35:29" hostname="DESKTOP-1J2V5VV" time="0.031">
+  <properties/>
+  <testcase name="Station test getConnectingRailways()" classname="InfrastructureTest" time="0.001"/>
+  <testcase name="Railway test get transition time calculator()" classname="InfrastructureTest" time="0.001"/>
+  <testcase name="Railway register invalid input throw IAE()" classname="InfrastructureTest" time="0.016"/>
+  <testcase name="Station calculate geo-distance()" classname="InfrastructureTest" time="0.0"/>
+  <testcase name="Railway test register()" classname="InfrastructureTest" time="0.0"/>
+  <testcase name="TimeWindow typealias extension check()" classname="InfrastructureTest" time="0.002"/>
+  <testcase name="Railway test get-transition-time()" classname="InfrastructureTest" time="0.001"/>
+  <testcase name="Railway test otherDestination function()" classname="InfrastructureTest" time="0.001"/>
+  <testcase name="Station drop trains when timewindow is closed()" classname="InfrastructureTest" time="0.0"/>
+  <testcase name="Station register throw error at invalid input()" classname="InfrastructureTest" time="0.002"/>
+  <testcase name="Railway test get-availability()" classname="InfrastructureTest" time="0.0"/>
+  <testcase name="Station register trains()" classname="InfrastructureTest" time="0.0"/>
+  <testcase name="Railway test remove after passage()" classname="InfrastructureTest" time="0.0"/>
+  <system-out><![CDATA[10
+6RE 17 ||    to 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
